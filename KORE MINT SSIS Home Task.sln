@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "KORE MINT SSIS Home Task", "KORE MINT SSIS Home Task\KORE MINT SSIS Home Task.dtproj", "{CD54D097-A1F4-4B65-AFC6-C4DB2F1AD235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD54D097-A1F4-4B65-AFC6-C4DB2F1AD235}.Development|Default.ActiveCfg = Development
+		{CD54D097-A1F4-4B65-AFC6-C4DB2F1AD235}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C5937EF-B59A-4C71-BF0E-DE03289D9CA1}
+	EndGlobalSection
+EndGlobal
